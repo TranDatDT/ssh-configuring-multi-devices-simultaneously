@@ -1,5 +1,5 @@
 ## Introduction
-Python script that helps you send commands to multi devices simultaneously.
+Python script that helps you send SSH commands to multi devices simultaneously.
 
 ## Requirement
 - Python 3.6+
