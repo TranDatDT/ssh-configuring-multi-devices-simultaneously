@@ -1,3 +1,6 @@
+## Introduction
+Python script that helps you send commands to multi devices simultaneously.
+
 ## Requirement
 - Python 3.6+
 + If you are using Python 3.5 and lower, just change `print(f"")` function to `print("")`.
